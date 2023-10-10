@@ -166,6 +166,8 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
+  background-color: #ffbe33;
+  margin-left: 5px;
   padding: 5px 20px;
   color: #ffffff;
   text-align: center;
